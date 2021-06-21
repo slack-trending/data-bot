@@ -9,4 +9,4 @@ def post_message(token, channel, text):
  
 myToken = "xoxb-2215363152176-2191739510258-6GPWSiG5NONKmJZhg0FoPGn7"
  
-post_message(myToken,"#searching-trends","hi, I'm collec data bot!!")
+post_message(myToken,"#searching-trends","hi, I'm collect data bot!!")
