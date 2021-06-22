@@ -19,5 +19,4 @@ try:
 except SlackApiError as e:
     assert e.response['error']
 
-    SLACK_BOT_TOKEN="xoxb-2215363152176-2191739510258-6GPWSiG5NONKmJZhg0FoPGn7" python send_msg2.py
-    
+
