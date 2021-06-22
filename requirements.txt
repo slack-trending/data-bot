@@ -20,7 +20,7 @@ pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_16080558
 PySocks @ file:///D:/bld/pysocks_1610291742246/work
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-slackclient @ file:///D:/bld/slackclient_1610554541607/work
+slack_sdk @ file:///D:/bld/slackclient_1610554541607/work
 slacker==0.14.0
 typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1622056799390/work
