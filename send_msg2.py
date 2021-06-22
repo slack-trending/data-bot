@@ -1,6 +1,4 @@
 import logging
-
-from flask.wrappers import Response
 logging.basicConfig(level=logging.DEBUG)
 
 import os
