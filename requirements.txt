@@ -1,30 +1,8 @@
-aiodns==2.0.0
-aiohttp @ file:///D:/bld/aiohttp_1623682503714/work
-async-timeout==3.0.1
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
-brotlipy==0.7.0
-certifi==2020.6.20
-cffi @ file:///D:/bld/cffi_1613414140225/work
-chardet @ file:///D:/bld/chardet_1610093646853/work
-click==7.1.2
-cryptography @ file:///D:/bld/cryptography_1616851649655/work
-Flask==1.1.2
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
-itsdangerous==1.1.0
-Jinja2==2.11.2
-MarkupSafe==1.1.1
-multidict @ file:///D:/bld/multidict_1610319170773/work
-pycares @ file:///D:/bld/pycares_1621266872352/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
-PySocks @ file:///D:/bld/pysocks_1610291742246/work
-requests @ file:///tmp/build/80754af9/requests_1608241421344/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-slack_sdk @ file:///D:/bld/slackclient_1610554541607/work
-slacker==0.14.0
-typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1622748266870/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1622056799390/work
-Werkzeug==1.0.1
-win-inet-pton @ file:///D:/bld/win_inet_pton_1610147566231/work
-wincertstore==0.2
-yarl @ file:///D:/bld/yarl_1610354399983/work
+click==8.0.1
+colorama==0.4.4
+Flask==2.0.1
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+slack-sdk==3.7.0
+Werkzeug==2.0.1
